@@ -90,7 +90,7 @@ if __name__ == '__main__':
 #     }
 # }
 
-
+# Added body using postman
 # http://127.0.0.1:5000/insertCustomers
 # customer added successfully (response code =200)
 
